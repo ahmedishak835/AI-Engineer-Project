@@ -1,0 +1,5 @@
+mkdir omnichannel-ai-pipeline
+cd omnichannel-ai-pipeline
+git init
+mkdir data notebooks src
+touch src/data_preprocessing.py src/app.py requirements.txt README.md
